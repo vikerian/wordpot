@@ -1,3 +1,7 @@
+This project seems discontinued few years ago, whats by my opinion error.
+Gonna rewrite it into python3.
+Vikerian
+
 # Wordpot
 
 Wordpot is a Wordpress honeypot which detects probes for plugins, themes, timthumb and other common files used to fingerprint a wordpress installation.
