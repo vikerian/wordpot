@@ -1,5 +1,5 @@
 This project seems discontinued few years ago, whats by my opinion error.
-Gonna rewrite it into python3.
+Gonna rewrite it into python3 and pack it up into docker alpine based.
 Vikerian
 
 # Wordpot
